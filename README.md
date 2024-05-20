@@ -1,5 +1,7 @@
 # Surface Detection:
 
+References TXH2020/deeplab2, TXH2020/models, TXH2020/fast-labeling-workflow
+
 Use Deep Learning for understanding surfaces in order to overcome the computational burden placed by the Google ARCore App during surface understanding which causes device heating. Below is the content section for this repository.
 ## Image Downloader
 For initial classification approach, the automatic_image_downloader.py file was used for automatically downloading various images pertaining to a horizontal surface. 
